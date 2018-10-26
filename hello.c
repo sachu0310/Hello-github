@@ -1,0 +1,6 @@
+# Hello-github
+#include<stdio.h>
+void main()
+{
+print("hello world....!!!");
+}
